@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Source Sans Pro", sans-serif, "Zen Tokyo Zoo", "cursive";
+}
+
+nav {
+  display: flex;
+  justify-content: flex-start;
+  gap: 25px;
+  margin-top: 25px;
+  margin-left: 40px;
+}
+
+nav > a {
+  color: #37126c;
+  font-size: 25px;
+  text-decoration: none;
+  
+}
+
+nav > a:hover {
+  text-decoration: underline;
+}
+
+main {
+  min-height: calc(100vh - 100px);
+}
+
+footer {
+  text-align: center;
+}
+
+a.active {
+  color: rgb(151, 31, 81);
+  cursor: default;
+}

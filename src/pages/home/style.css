@@ -1,0 +1,72 @@
+body {
+  background-image: url("../../../public/assets/home.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  z-index: -1;
+}
+
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.greeting {
+  text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+
+.outer-line {
+  width: 200px;
+  margin: -10px 20px 0 20px;
+  height: 3px;
+  border-bottom: 2px solid #4d4d4d;
+  display: block;
+}
+
+.line {
+  display: flex;
+  align-items: center;
+}
+
+.home-desc {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icons-code {
+  margin: 10px 0;
+  font-size: 30px;
+}
+
+p {
+  font-size: 35px;
+}

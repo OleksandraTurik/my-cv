@@ -1,0 +1,62 @@
+{
+  "about": [
+    {
+      "id": 1,
+      "myinfo": "I am hardworking, diligent, creative individual. Able to work as a part of a team or alone. An easy-going and friendly person and easy to work with. Able to work under pressure and under different conditions. I have a great desire to become a front-end developer and work in an interesting environment in which I can develop and realize my potential. In my free time I attend additional courses in programming, English, study additional literature and create my first projects.",
+      "Hobbie1": "learning foreign languages",
+      "Hobbie2": "creative writing",
+      "Hobbie3": "psychology",
+      "Hobbie4": "information technology",
+      "titleWork": "Working history",
+    "subtitle": "01/03/2020 to 27/12/2020",
+    "description": "Content-writer in creative digital agency 'TrendX'. Duties: creating content, SMM-strategies and publishing posts for social networks. Writing and filling the site with content. Communication and negotiations with clients, assistance in organizing photo shoots.",
+    "subtitle2": "01/01/2020 to 01/07/2021",
+    "description2": "Сontent manager in IT company 'Lead Line IT'. Duties: creating content-strategy and content-plan for Instagram and Facebook pages for 5-10 clients; analysis of competitors; communication with bloggers; managing and controlling the work of designers, photographers, videographers, editors, models (using Bitrix24); assigning tasks for subordinate employees; organizing and managing photoshoots; creating and controlling the visual aspect of social media pages."
+    }
+  ],
+
+  "Technical Skills": [
+    {
+      "id": 2,
+      "title": "Technical skills",
+      "item1": "Basic knowledge of HTML, CSS (Bootstrap), JavaScript",
+      "item2": "Git, GitHub",
+      "item3": "Availability of GitHub repository with code."
+    }
+  ],
+
+  "Language skills": [
+    {
+      "id": 3,
+      "title": "Language Skills",
+      "item1": "Ukrainian: mother tongue",
+      "item2": "English: intermediate",
+      "item3": "Polish: pre-intermediate"
+    }
+  ],
+
+  "Digital Skills": [
+    {
+        "id": 4,
+      "title": "Digital Skills",
+      "item1": "Knowledge of PC: Word, Excel, PowerPoint, Photoshop, Video editor, Canva, PicsArt, Snapseed, Trello",
+      "item2": "webinar platforms (Zoom, Meet) ",
+      "item3": "Google Workspace "
+    }
+  ],
+
+  "Soft Skills": [
+    {
+        "id": 5,
+      "img": "assets/data.png",
+      "title": "Soft Skills",
+      "item1": "good communication skills",
+      "item2": "great organisational skills",
+      "item3": "teamwork"
+    }
+  ]
+  
+    
+  
+}
+
